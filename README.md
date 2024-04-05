@@ -26,3 +26,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 # imageUpload
+In this project Images can be uploaded to firebase. And after uploading we can get that url and show a preview of the image to user. It is done using angular.
